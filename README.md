@@ -72,23 +72,25 @@ Runs on a **background thread** with a live progress bar so the UI never freezes
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-| | |
-|---|---|
-| **Home Dashboard** | ![Dashboard](screenshots/01_dashboard.png) |
-| **Website Input / Scraper** | ![Scraper](screenshots/02_scraper_input.png) |
-| **Scraping Progress** | ![Progress](screenshots/03_scraping_progress.png) |
-| **Results Table** | ![Results](screenshots/04_results_table.png) |
-| **Analytics Dashboard** | ![Analytics](screenshots/05_analytics.png) |
-| **Export Center** | ![Export](screenshots/06_export_center.png) |
-| **Dark Theme** | ![Dark](screenshots/07_dark_theme.png) |
-| **Light Theme** | ![Light](screenshots/08_light_theme.png) |
-| **Database History** | ![History](screenshots/09_history.png) |
-| **Settings Panel** | ![Settings](screenshots/10_settings.png) |
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-> Place your captured screenshots in the `screenshots/` folder using the names above.
+### Scraper
+![Scraper](screenshots/scraper.png)
 
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### Export Center
+![Export Center](screenshots/export-center.png)
+
+### History
+![History](screenshots/history.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 ---
 
 ## 🏗️ Architecture
