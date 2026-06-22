@@ -135,9 +135,7 @@ PRODIGY_SD_05/
 ├── analytics.py            # Statistics + Matplotlib chart generation
 ├── exporter.py             # CSV / Excel / JSON export
 ├── ui.py                   # CustomTkinter UI (all pages)
-│
-├── assets/                 # Icons / images for UI
-├── database/
+│├── database/
 │   └── scraper.db           # SQLite database (auto-created)
 ├── exports/                 # Exported data files (auto-created)
 ├── screenshots/             # App screenshots for README
