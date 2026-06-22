@@ -213,5 +213,10 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 
-Built as part of an internship data engineering track — designed and engineered
-to portfolio/production quality standards.
+**Yoga Prabu E**
+
+<p>GitHub: https://github.com/yoga-prabu2</p>
+<p>LinkedIn: https://www.linkedin.com/in/yogaprabue07/</p>
+
+
+Built as part of **Software Development Internship — Task 05**
